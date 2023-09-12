@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BookSearchRXJava</string>
+    <string name="no_books">No Books were found.</string>
+</resources>
